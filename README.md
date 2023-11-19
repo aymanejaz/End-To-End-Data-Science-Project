@@ -6,12 +6,15 @@
 <ul>
   <li><b><a href="https://medium.com/@aymanejaz/end-to-end-data-science-project-part-1-setting-up-the-environment-97f782e7045e"
       target="_blank">Setting Up The Environment</a></b></li>
+  
+  <li><b><a href="https://medium.com/@aymanejaz/end-to-end-data-science-project-part-2-project-setup-using-setup-py-bca448091714"
+      target="_blank">Project Setup Using Setup.py</a></b></li>
 </ul>
 
 <hr><hr>
 
 <p>For more Data Science blogs, visit my <b><a
-      href="https://medium.com/@aymanejaz/end-to-end-data-science-project-part-1-setting-up-the-environment-97f782e7045e"
+      href="https://medium.com/@aymanejaz/"
       target="_blank">Medium profile</a></b>.</p>
 
 <p>Contact me on LinkedIn: <b><a href="https://www.linkedin.com/in/aymanejaz/" target="_blank">Ayman Ejaz</a></b>.</p>
