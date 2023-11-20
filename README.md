@@ -9,6 +9,9 @@
   
   <li><b><a href="https://medium.com/@aymanejaz/end-to-end-data-science-project-part-2-project-setup-using-setup-py-bca448091714"
       target="_blank">Project Setup Using Setup.py</a></b></li>
+
+  <li><b><a href="https://medium.com/@aymanejaz/end-to-end-data-science-project-part-3-automating-project-structure-using-template-py-2c5949223a71"
+      target="_blank">Automating Project Structure Using template.py</a></b></li>
 </ul>
 
 <hr><hr>
