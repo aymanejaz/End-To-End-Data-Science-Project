@@ -12,6 +12,9 @@
 
   <li><b><a href="https://medium.com/@aymanejaz/end-to-end-data-science-project-part-3-automating-project-structure-using-template-py-2c5949223a71"
       target="_blank">Automating Project Structure Using template.py</a></b></li>
+
+  <li><b><a href="https://medium.com/@aymanejaz/end-to-end-data-science-project-part-4-logging-and-exception-handling-ba08c52b15c8"
+      target="_blank">Logging And Exception Handling</a></b></li>
 </ul>
 
 <hr><hr>
